@@ -1,0 +1,1 @@
+# Vagrant-defined OpenVAS Host
